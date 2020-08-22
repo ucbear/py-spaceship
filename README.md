@@ -1,1 +1,1 @@
-Enjoy PyShooting Game!
+Enjoy PySpaceship Game!
