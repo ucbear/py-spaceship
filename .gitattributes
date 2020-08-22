@@ -1,0 +1,4 @@
+Spaceship.exe filter=lfs diff=lfs merge=lfs -text
+build/SpaceShipGame.exe/PKG-00.pkg filter=lfs diff=lfs merge=lfs -text
+build/Spaceship.exe/PKG-00.pkg filter=lfs diff=lfs merge=lfs -text
+dist/SpaceshipForYJ.7z filter=lfs diff=lfs merge=lfs -text
